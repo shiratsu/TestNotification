@@ -7,12 +7,7 @@
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
-	<string>jp.co.shiratsu.testnotification
-        UIRemoteNotificationType.Badge |　
-        UIRemoteNotificationType.Sound |
-        UIRemoteNotificationType.Alert )
-
-jp.co.shiratsu.testnotification</string>
+	<string>jp.co.shiratsu.testnotification</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
